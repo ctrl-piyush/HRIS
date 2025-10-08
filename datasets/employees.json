@@ -1,0 +1,202 @@
+[
+  {
+    "employee_id": "E101",
+    "name": "Employee 1",
+    "department": "HR",
+    "salary": 55000,
+    "tenure_years": 1,
+    "performance": "Average",
+    "absence_count": 1,
+    "salary_pending": false
+  },
+  {
+    "employee_id": "E102",
+    "name": "Employee 2",
+    "department": "Marketing",
+    "salary": 30000,
+    "tenure_years": 8,
+    "performance": "Good",
+    "absence_count": 6,
+    "salary_pending": false
+  },
+  {
+    "employee_id": "E103",
+    "name": "Employee 3",
+    "department": "Dev",
+    "salary": 50000,
+    "tenure_years": 1,
+    "performance": "Below Average",
+    "absence_count": 0,
+    "salary_pending": false
+  },
+  {
+    "employee_id": "E104",
+    "name": "Employee 4",
+    "department": "Marketing",
+    "salary": 35000,
+    "tenure_years": 5,
+    "performance": "Average",
+    "absence_count": 1,
+    "salary_pending": false
+  },
+  {
+    "employee_id": "E105",
+    "name": "Employee 5",
+    "department": "Marketing",
+    "salary": 55000,
+    "tenure_years": 1,
+    "performance": "Good",
+    "absence_count": 7,
+    "salary_pending": false
+  },
+  {
+    "employee_id": "E106",
+    "name": "Employee 6",
+    "department": "Marketing",
+    "salary": 30000,
+    "tenure_years": 2,
+    "performance": "Average",
+    "absence_count": 8,
+    "salary_pending": false
+  },
+  {
+    "employee_id": "E107",
+    "name": "Employee 7",
+    "department": "Sales",
+    "salary": 50000,
+    "tenure_years": 10,
+    "performance": "Good",
+    "absence_count": 3,
+    "salary_pending": false
+  },
+  {
+    "employee_id": "E108",
+    "name": "Employee 8",
+    "department": "Dev",
+    "salary": 40000,
+    "tenure_years": 10,
+    "performance": "Good",
+    "absence_count": 0,
+    "salary_pending": false
+  },
+  {
+    "employee_id": "E109",
+    "name": "Employee 9",
+    "department": "Marketing",
+    "salary": 50000,
+    "tenure_years": 9,
+    "performance": "Below Average",
+    "absence_count": 3,
+    "salary_pending": false
+  },
+  {
+    "employee_id": "E110",
+    "name": "Employee 10",
+    "department": "HR",
+    "salary": 40000,
+    "tenure_years": 7,
+    "performance": "Good",
+    "absence_count": 0,
+    "salary_pending": false
+  },
+  {
+    "employee_id": "E111",
+    "name": "Employee 11",
+    "department": "HR",
+    "salary": 60000,
+    "tenure_years": 8,
+    "performance": "Average",
+    "absence_count": 6,
+    "salary_pending": false
+  },
+  {
+    "employee_id": "E112",
+    "name": "Employee 12",
+    "department": "Marketing",
+    "salary": 45000,
+    "tenure_years": 10,
+    "performance": "Good",
+    "absence_count": 1,
+    "salary_pending": false
+  },
+  {
+    "employee_id": "E113",
+    "name": "Employee 13",
+    "department": "Support",
+    "salary": 45000,
+    "tenure_years": 7,
+    "performance": "Good",
+    "absence_count": 3,
+    "salary_pending": true
+  },
+  {
+    "employee_id": "E114",
+    "name": "Employee 14",
+    "department": "Sales",
+    "salary": 30000,
+    "tenure_years": 9,
+    "performance": "Excellent",
+    "absence_count": 5,
+    "salary_pending": true
+  },
+  {
+    "employee_id": "E115",
+    "name": "Employee 15",
+    "department": "Sales",
+    "salary": 50000,
+    "tenure_years": 6,
+    "performance": "Below Average",
+    "absence_count": 5,
+    "salary_pending": false
+  },
+  {
+    "employee_id": "E116",
+    "name": "Employee 16",
+    "department": "Finance",
+    "salary": 30000,
+    "tenure_years": 8,
+    "performance": "Average",
+    "absence_count": 4,
+    "salary_pending": false
+  },
+  {
+    "employee_id": "E117",
+    "name": "Employee 17",
+    "department": "Dev",
+    "salary": 30000,
+    "tenure_years": 8,
+    "performance": "Average",
+    "absence_count": 3,
+    "salary_pending": false
+  },
+  {
+    "employee_id": "E118",
+    "name": "Employee 18",
+    "department": "Sales",
+    "salary": 40000,
+    "tenure_years": 0,
+    "performance": "Excellent",
+    "absence_count": 3,
+    "salary_pending": false
+  },
+  {
+    "employee_id": "E119",
+    "name": "Employee 19",
+    "department": "Marketing",
+    "salary": 45000,
+    "tenure_years": 9,
+    "performance": "Below Average",
+    "absence_count": 8,
+    "salary_pending": false
+  },
+  {
+    "employee_id": "E120",
+    "name": "Employee 20",
+    "department": "Support",
+    "salary": 40000,
+    "tenure_years": 2,
+    "performance": "Below Average",
+    "absence_count": 1,
+    "salary_pending": false
+  }
+]

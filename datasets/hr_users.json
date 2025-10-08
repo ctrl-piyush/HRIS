@@ -1,0 +1,20 @@
+[
+  {
+    "name": "HR One",
+    "email": "hr1@company.com",
+    "password": "hrpass1",
+    "role": "hr"
+  },
+  {
+    "name": "HR Two",
+    "email": "hr2@company.com",
+    "password": "hrpass2",
+    "role": "hr"
+  },
+  {
+    "name": "HR Three",
+    "email": "hr3@company.com",
+    "password": "hrpass3",
+    "role": "hr"
+  }
+]

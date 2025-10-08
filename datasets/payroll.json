@@ -1,0 +1,122 @@
+[
+  {
+    "employee_id": "E101",
+    "month": "2025-09",
+    "amount": 55000,
+    "status": "processed"
+  },
+  {
+    "employee_id": "E102",
+    "month": "2025-09",
+    "amount": 30000,
+    "status": "pending"
+  },
+  {
+    "employee_id": "E103",
+    "month": "2025-09",
+    "amount": 50000,
+    "status": "pending"
+  },
+  {
+    "employee_id": "E104",
+    "month": "2025-09",
+    "amount": 35000,
+    "status": "processed"
+  },
+  {
+    "employee_id": "E105",
+    "month": "2025-09",
+    "amount": 55000,
+    "status": "pending"
+  },
+  {
+    "employee_id": "E106",
+    "month": "2025-09",
+    "amount": 30000,
+    "status": "pending"
+  },
+  {
+    "employee_id": "E107",
+    "month": "2025-09",
+    "amount": 50000,
+    "status": "pending"
+  },
+  {
+    "employee_id": "E108",
+    "month": "2025-09",
+    "amount": 40000,
+    "status": "processed"
+  },
+  {
+    "employee_id": "E109",
+    "month": "2025-09",
+    "amount": 50000,
+    "status": "processed"
+  },
+  {
+    "employee_id": "E110",
+    "month": "2025-09",
+    "amount": 40000,
+    "status": "pending"
+  },
+  {
+    "employee_id": "E111",
+    "month": "2025-09",
+    "amount": 60000,
+    "status": "processed"
+  },
+  {
+    "employee_id": "E112",
+    "month": "2025-09",
+    "amount": 45000,
+    "status": "processed"
+  },
+  {
+    "employee_id": "E113",
+    "month": "2025-09",
+    "amount": 45000,
+    "status": "processed"
+  },
+  {
+    "employee_id": "E114",
+    "month": "2025-09",
+    "amount": 30000,
+    "status": "processed"
+  },
+  {
+    "employee_id": "E115",
+    "month": "2025-09",
+    "amount": 50000,
+    "status": "pending"
+  },
+  {
+    "employee_id": "E116",
+    "month": "2025-09",
+    "amount": 30000,
+    "status": "processed"
+  },
+  {
+    "employee_id": "E117",
+    "month": "2025-09",
+    "amount": 30000,
+    "status": "processed"
+  },
+  {
+    "employee_id": "E118",
+    "month": "2025-09",
+    "amount": 40000,
+    "status": "processed"
+  },
+  {
+    "employee_id": "E119",
+    "month": "2025-09",
+    "amount": 45000,
+    "status": "processed"
+  },
+  {
+    "employee_id": "E120",
+    "month": "2025-09",
+    "amount": 40000,
+    "status": "pending"
+  }
+]

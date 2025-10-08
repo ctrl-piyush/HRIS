@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ title or 'HRIS Advanced' }}</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><a href="{{ url_for('index') }}">HRIS</a></div>
+    <nav>
+      {% if session.get('user') %}
+        <span class="user">Hi, {{ session['user']['name'] }}</span>
+        <a class="btn small" href="{{ url_for('logout') }}">Logout</a>
+      {% else %}
+        <a class="btn" href="{{ url_for('login_hr') }}">HR Login</a>
+        <a class="btn" href="{{ url_for('login_employee') }}">Employee Login</a>
+      {% endif %}
+    </nav>
+  </header>
+  <main class="container">
+    {% block content %}{% endblock %}
+  </main>
+  <footer class="footer">Made with ❤️ — HRIS Demo</footer>
+</body>
+</html>
