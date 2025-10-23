@@ -1,27 +1,63 @@
-HRIS Advanced - Flask + MongoDB + ML (Full Stack)
-------------------------------------------------
-This enhanced project includes:
-- Colorful CSS with animated buttons
-- Two login pages (HR and Employee)
-- HR dashboard with analytics and ML-backed payroll/attrition prediction
-- Employee details page (attendance, salary status)
-- Seeded dataset with 20 employees + 3 HR users
-- Simple ML model trained on synthetic data at first run (scikit-learn) and saved to disk
+HRIS (Human Resource Information System)
+A comprehensive web application for managing employee data, viewing HR analytics, and providing an employee self-service portal.
 
-How to run:
-1. Edit config.py to point to your MongoDB (default: mongodb://localhost:27017/hris_db)
-2. Create virtualenv and install: pip install -r requirements.txt
-3. Run: python app.py
-4. Open: http://127.0.0.1:5000
+Features
+HR Analytics Dashboard: A high-level overview for HR personnel with key metrics like total employees, pending payroll, average salary, and ML-based attrition risk.
 
-Default HR accounts (seeded):
-- hr1@company.com / hrpass1
-- hr2@company.com / hrpass2
-- hr3@company.com / hrpass3
+Payroll Analytics: A bar chart to visualize payroll distribution across the company.
 
-Default Employee sample:
-- emp1@company.com / emppass1  (and 19 more)
+Comprehensive Employee List: A detailed table for managers to view all employee data, including department, salary, tenure, and risk status.
 
-Notes:
-- ML model (a RandomForest classifier) is trained on synthetic features (tenure, salary, performance score, absence_count)
-  to predict a simple "payroll_at_risk" label. This is illustrative: replace/train with your own production data.
+Employee Self-Service: A dedicated dashboard for employees to log in and view their personal information.
+
+Detailed Profile View: Employees can check their detailed profile, past payroll history, and recent attendance records.
+
+ML Risk Assessment: Proactively identifies employees "At Risk" (e.g., of leaving) to help with retention efforts.
+
+Screenshots
+1. HR Analytics Dashboard
+(Provides a high-level overview and KPIs for HR staff)
+!(https://github.com/ctrl-piyush/HRIS/blob/main/IMG-20251008-WA0002.jpg)
+
+3. Employee Management Dashboard
+(Shows a sortable, detailed list of all employees in the company)
+!(https://github.com/ctrl-piyush/HRIS/blob/main/IMG-20251008-WA0004.jpg)
+
+4. Employee Self-Service Dashboard
+(The logged-in employee's personal dashboard)
+!(https://github.com/ctrl-piyush/HRIS/blob/main/IMG-20251008-WA0003.jpg)
+
+5. Detailed Employee Profile
+(Shows an individual's profile, payroll history, and attendance)
+!(https://github.com/ctrl-piyush/HRIS/blob/main/IMG-20251008-WA0001.jpg)
+
+
+Getting Started
+To get a local copy up and running follow these simple steps.
+
+Prerequisites
+npm
+
+Bash
+
+npm install npm@latest -g
+Installation
+Clone the repo
+
+Bash
+
+git clone https://github.com/ctrl-piyush/HRIS.git
+Install NPM packages
+
+Bash
+
+npm install
+(Add any backend setup steps here if necessary)
+
+Usage
+To run the app in the development mode:
+
+Bash
+
+npm start
+Open http://localhost:3000 to view it in the browser. (If you have a separate backend, add the command to run that as well)
