@@ -17,19 +17,19 @@ ML Risk Assessment: Proactively identifies employees "At Risk" (e.g., of leaving
 Screenshots
 1. HR Analytics Dashboard
 (Provides a high-level overview and KPIs for HR staff)
-!(https://github.com/ctrl-piyush/HRIS/blob/main/IMG-20251008-WA0002.jpg)
+![HR Analytics Dashboard](https://github.com/ctrl-piyush/HRIS/blob/main/IMG-20251008-WA0002.jpg)
 
 3. Employee Management Dashboard
 (Shows a sortable, detailed list of all employees in the company)
-!(https://github.com/ctrl-piyush/HRIS/blob/main/IMG-20251008-WA0004.jpg)
+![Emp Management Dashboard](https://github.com/ctrl-piyush/HRIS/blob/main/IMG-20251008-WA0004.jpg)
 
 4. Employee Self-Service Dashboard
 (The logged-in employee's personal dashboard)
-!(https://github.com/ctrl-piyush/HRIS/blob/main/IMG-20251008-WA0003.jpg)
+![Emp Self service Dashboard](https://github.com/ctrl-piyush/HRIS/blob/main/IMG-20251008-WA0003.jpg)
 
 5. Detailed Employee Profile
 (Shows an individual's profile, payroll history, and attendance)
-!(https://github.com/ctrl-piyush/HRIS/blob/main/IMG-20251008-WA0001.jpg)
+![Detailed Emp Profile](https://github.com/ctrl-piyush/HRIS/blob/main/IMG-20251008-WA0001.jpg)
 
 
 Getting Started
